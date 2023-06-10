@@ -52,7 +52,7 @@ cp rofi-power-menu ~/.local/bin/
 A simple example showing how to launch the power menu:
 
 ```
-rofi -show power-menu -modi power-menu:rofi-power-menu
+rofi -show power-menu -modi power-menu:~/.local/bin/rofi-power-menu
 ```
 
 If you didn't install the script in `PATH`, you need to give the path to the
