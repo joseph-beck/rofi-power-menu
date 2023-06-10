@@ -112,7 +112,7 @@ control the shown choices and their order by using `--choices` and listing the
 desired choices with `/` as the separator. Available choices are:
 
 - `lockscreen`: Lock screen
-- `logout`: Log out (confirmation asked by default)
+- `logout`: Log out (confirmation asked by default) (still not working 100% although no longer kernel panicks)
 - `suspend`: Suspend
 - `hibernate`: Hibernate
 - `reboot`: Reboot (confirmation asked by default)
